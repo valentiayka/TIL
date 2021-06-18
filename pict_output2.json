@@ -1,0 +1,206 @@
+[
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\t-\tCypress\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJasmine\tCodeceptJS\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJava\tTestNG\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tAndroid\tChrome\tPython\t-\tPlaywright\tAppium\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\t-\tPuppeteer\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tJest\tCodeceptJS\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\tNose2\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tJest\tPuppeteer\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJest\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\t-\tCodeceptJS\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tJava\t-\tSelenide\t-\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tJasmine\tPuppeteer\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tMocha\tWebdriverIO\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\t-\tWebdriverIO\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJest\tCypress\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJest\tWebdriverIO\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\tJasmine\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tPython\tPyTest\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\tUnittest\tHelium\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJest\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\t-\tHelium\t-\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\tNose2\tHelium\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJava\tTestNG\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tJasmine\tCypress\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tMocha\tCodeceptJS\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tJS\tJasmine\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tPython\tNose2\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJava\tJUnit\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJava\tJUnit\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\tJasmine\tHelium\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tAndroid\tChrome\tJava\t-\tSelenide\tAppium\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tAndroid\t-\tJS\t-\t-\tDetox\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tiOS\t-\tC#\t-\t-\tXamarin\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tMocha\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\tPyTest\tHelium\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tiOS\t-\tJS\t-\t-\tAppium\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tC#\t-\t-\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJS\tMocha\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tAndroid\tChrome\tJS\t-\tPlaywright\tDetox\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tC#\t-\tPlaywright\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tJS\t-\tSerenity\tDetox\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tAndroid\t-\tSwift\t-\t-\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tSwift\t-\t-\t-\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tJasmine\tWebdriverIO\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tAndroid\t-\tJava\t-\t-\tEspresso\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\tUnittest\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\t-\tSerenity\t-\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tAndroid\tChrome\tC#\t-\tPlaywright\tXamarin\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\tPyTest\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tMocha\tCypress\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tJava\tJUnit\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tJava\t-\tSerenity\tAppium\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tSwift\t-\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tiOS\t-\tSwift\t-\t-\tXCUITest\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tPython\tUnittest\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tJava\t-\tSelenide\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tPython\tUnittest\tPlaywright\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\t-\tPlaywright\t-\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tSwift\t-\t-\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tAndroid\tChrome\tPython\t-\tHelium\tAppium\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tSafari\tJava\tTestNG\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tPython\t-\tSerenity\tAppium\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tC#\t-\t-\tAppium\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Hybrid\tiOS\tSafari\tC#\t-\t-\tXamarin\tSelenium Grid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Mobile Native\tAndroid\t-\tPython\t-\t-\t-\tSelenoid"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tJS\tMocha\tPuppeteer\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tChrome\tC#\t-\t-\t-\t-"
+   },
+   {
+      "Application Type\tMobile Platform\tBrowser\tProgramming Language\tUnit Framework\tWeb Framework\tMobile Framework\tInfrastructure":"Web\t-\tFirefox\tPython\t-\tSerenity\t-\tSelenium Grid"
+   }
+]
